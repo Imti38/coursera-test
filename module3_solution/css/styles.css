@@ -20,6 +20,9 @@ h1.navbar-brand {
 	color: #fff;
 }
 
+.navbar-toggle {
+	margin-top: 20px;
+}
 
 #nav-list li a {
 	color: #fff;
@@ -46,14 +49,14 @@ li:nth-child(2) {
 	font-weight: bold;
 }
 
-.menu-items {
+.menu-item {
 	border: 1px solid black;
 	margin-bottom: 2em;
 	padding: 0;
 	background-color: #E0E4CC;
 }
 
-.menu-items h3 {
+.menu-item h3 {
 	font-size: 1.5em;
 	background-color: #1F4788;
 	width: 100%;
@@ -61,7 +64,7 @@ li:nth-child(2) {
 	padding: .5em 0;
 	color: #fff;
 }
-.menu-items p {
+.menu-item p {
 
 	padding: 1em;
 	
