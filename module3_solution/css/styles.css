@@ -36,6 +36,10 @@ li:nth-child(2) {
 	color: #ECF0F1;
 }
 
+#main-content {
+	margin-bottom: 20px;
+}
+
 #main-content h2 {
 	margin-bottom: 30px;
 	color: #1F4788;
@@ -46,6 +50,7 @@ li:nth-child(2) {
 	border: 1px solid black;
 	margin-bottom: 2em;
 	padding: 0;
+	background-color: #E0E4CC;
 }
 
 .menu-items h3 {
